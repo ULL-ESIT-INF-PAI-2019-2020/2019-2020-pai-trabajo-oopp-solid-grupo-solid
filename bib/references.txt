@@ -1,0 +1,8 @@
+Eloquent Javascript - chapter 06 (https://eloquentjavascript.net/06_object.html)
+Javascript.info - (https://javascript.info/object-basics)
+Different websites:
+https://courses.cs.washington.edu/courses/cse341/99wi/java/tutorial/java/objects/object.html
+https://en.wikipedia.org/wiki/Polymorphism_(computer_science)
+https://lostechies.com/chadmyers/2008/03/08/pablo-s-topic-of-the-month-march-solid-principles/
+https://programmingwithmosh.com/javascript/solid-5-principles-of-object-oriented-design-every-developer-must-learn/
+https://blog.raulmoya.es/principios-s-o-l-i-d-en-javascript-14041e6a3c43
